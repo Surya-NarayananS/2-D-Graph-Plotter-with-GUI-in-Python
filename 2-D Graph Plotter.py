@@ -239,7 +239,7 @@ Copyright (c) 2019 Surya Narayanan""", style='TLabel')
 			devwin.title("About the Developer")
 			devlabel = ttk.Label(devwin, text="""I'm Surya Narayanan from India and I coded this app entirely independent. This is my first ever Open-Source project.
 Please feel free to review, edit and make changes to the code.
-You can view the source code here: https://github.com/Surya-NarayananS/2-D-Graph-Plotter-with-GUI-in-Python.git
+You can view the source code here: https://github.com/Surya-NarayananS/2-D-Graph-Plotter-with-GUI-in-Python/blob/master/2-D Graph Plotter.py.git
 You can contact me: suryanarayanansg@gmail.com
 Hoping this application is useful in some way!""", style='TLabel')
 			devlabel.pack(anchor='nw')
